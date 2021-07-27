@@ -19,7 +19,7 @@ U 1 1 61003436
 P 6050 3550
 F 0 "U1" H 5825 4265 50  0000 C CNN
 F 1 "STM32_7x4_Castellated" H 5825 4174 50  0000 C CNN
-F 2 "" H 6050 3550 50  0001 C CNN
+F 2 "castellated_breakout:7x4_Castellated" H 6050 3550 50  0001 C CNN
 F 3 "" H 6050 3550 50  0001 C CNN
 	1    6050 3550
 	1    0    0    -1  
@@ -32,7 +32,7 @@ U 1 1 61006320
 P 4600 3850
 F 0 "J1" H 4492 2925 50  0000 C CNN
 F 1 "Conn_01x14_Female" H 4492 3016 50  0000 C CNN
-F 2 "" H 4600 3850 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical" H 4600 3850 50  0001 C CNN
 F 3 "~" H 4600 3850 50  0001 C CNN
 	1    4600 3850
 	-1   0    0    1   
@@ -43,7 +43,7 @@ U 1 1 6100ACAC
 P 7050 3750
 F 0 "J2" H 7078 3726 50  0000 L CNN
 F 1 "Conn_01x14_Female" H 7078 3635 50  0000 L CNN
-F 2 "" H 7050 3750 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical" H 7050 3750 50  0001 C CNN
 F 3 "~" H 7050 3750 50  0001 C CNN
 	1    7050 3750
 	1    0    0    -1  
