@@ -1,4 +1,4 @@
-19086588182867296
+19088215680311296
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83033,6 +83033,13 @@ castellated_breakout
 0
 28
 28
+castellated_breakout
+PinSocket_1x14_P2.54mm_Vertical_LargePads
+Through hole straight socket strip, 1x14, 2.54mm pitch, single row (from Kicad 4.0.7), script generated
+Through hole socket strip THT 1x14 2.54mm single row
+0
+14
+14
 trylaarsdam
 UFQFPN48
 UFQFPN48
