@@ -104,4 +104,83 @@ Wire Wire Line
 	6350 4350 6850 4350
 Wire Wire Line
 	6850 4450 6350 4450
+Text GLabel 5250 3150 1    50   Input ~ 0
+SWCLK
+Text GLabel 5150 3250 1    50   Input ~ 0
+JTDI
+Text GLabel 5050 3350 1    50   Input ~ 0
+DEBUG_JRST
+Text GLabel 4950 3450 1    50   Input ~ 0
+TX_1
+Text GLabel 4850 3550 1    50   Input ~ 0
+SWO
+Text GLabel 5250 3650 1    50   Input ~ 0
+SPI_MOSI
+Text GLabel 5150 3750 1    50   Input ~ 0
+SDA
+Text GLabel 5050 3850 1    50   Input ~ 0
+SCL
+Text GLabel 4950 3950 1    50   Input ~ 0
+PWR_WKUP
+Text GLabel 4850 4050 1    50   Input ~ 0
+SPI_CLK
+Text GLabel 5250 4150 1    50   Input ~ 0
+VCP_TX
+Text GLabel 5150 4250 1    50   Input ~ 0
+VCP_RX
+Text GLabel 5050 4350 1    50   Input ~ 0
+PA5
+Text GLabel 4950 4450 1    50   Input ~ 0
+SPI_MISO
+Text GLabel 6400 3150 1    50   Input ~ 0
+VBAT
+Text GLabel 6500 3250 1    50   Input ~ 0
+SWDIO
+Text GLabel 6600 3350 1    50   Input ~ 0
+PA12
+Text GLabel 6700 3450 1    50   Input ~ 0
+PA11
+Text GLabel 6800 3550 1    50   Input ~ 0
+RX_1
+Text GLabel 6400 3650 1    50   Input ~ 0
+PB12
+Text GLabel 6500 3750 1    50   Input ~ 0
+PB2
+Text GLabel 6600 3850 1    50   Input ~ 0
+VDD
+Text GLabel 6700 3950 1    50   Input ~ 0
+RF1V55
+Text GLabel 6800 4050 1    50   Input ~ 0
+GND
+Text GLabel 6400 4150 1    50   Input ~ 0
+RF2
+Text GLabel 6500 4250 1    50   Input ~ 0
+RF3
+Text GLabel 6600 4350 1    50   Input ~ 0
+BOOT0
+Text GLabel 6700 4450 1    50   Input ~ 0
+RST
+$Comp
+L Connector:Conn_01x06_Female J?
+U 1 1 613CFD7B
+P 6200 2100
+F 0 "J?" H 6228 2076 50  0000 L CNN
+F 1 "Conn_01x06_Female" H 6228 1985 50  0000 L CNN
+F 2 "" H 6200 2100 50  0001 C CNN
+F 3 "~" H 6200 2100 50  0001 C CNN
+	1    6200 2100
+	1    0    0    -1  
+$EndComp
+Text GLabel 6000 1900 0    50   Input ~ 0
+VDD
+Text GLabel 6000 2000 0    50   Input ~ 0
+SWDIO
+Text GLabel 6000 2100 0    50   Input ~ 0
+RST
+Text GLabel 6000 2200 0    50   Input ~ 0
+SWCLK
+Text GLabel 6000 2300 0    50   Input ~ 0
+GND
+Text GLabel 6000 2400 0    50   Input ~ 0
+SWO
 $EndSCHEMATC
