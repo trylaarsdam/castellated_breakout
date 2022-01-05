@@ -977,7 +977,7 @@
     (property "Value" "Conn_01x06_Female" (id 1) (at 158.1912 56.261 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical" (id 2) (at 157.48 53.34 0)
+    (property "Footprint" "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical" (id 2) (at 157.48 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 157.48 53.34 0)
@@ -1003,7 +1003,7 @@
       (reference "J2") (unit 1) (value "Conn_01x14_Female") (footprint "Connector_PinSocket_2.54mm:PinSocket_1x14_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-0000613cfd7b"
-      (reference "J3") (unit 1) (value "Conn_01x06_Female") (footprint "Connector:Tag-Connect_TC2030-IDC-NL_2x03_P1.27mm_Vertical")
+      (reference "J3") (unit 1) (value "Conn_01x06_Female") (footprint "Connector:Tag-Connect_TC2030-IDC-FP_2x03_P1.27mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-000061003436"
       (reference "U1") (unit 1) (value "STM32_7x4_Castellated") (footprint "castellated_breakout:7x4_Castellated")
